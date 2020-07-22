@@ -1,0 +1,20 @@
+body{
+    background-color: green;
+}
+
+.poker-card{
+    background-color: white;
+}
+
+.big-font{
+     font-size: 600%;
+}
+
+/* .card-type{
+     font-size: 600%; 
+
+} */
+
+.upside-down{
+    transform: rotate(180deg);
+}
